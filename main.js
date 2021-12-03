@@ -11,3 +11,5 @@ let cars=["name","year","price","model","color"];
 for(let i=0;i<cars.length;i++){
    console.log(`${cars[i]} ${car[cars[i]]}`);
 }
+
+console.log("test");
